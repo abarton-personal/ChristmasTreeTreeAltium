@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP AL TH D8 L3.5 H12.5 New Footprint=th_cap
+Change Component Comment : Designator=C1 Old Comment=4.7 µF New Comment=4.7uF
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP AL TH D8 L3.5 H12.5"; UniqueID = "\AWVCDVQH" ("\AWVCDVQH")
+Added Pin To Net: NetName=GND Pin=U1-1
